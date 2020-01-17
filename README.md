@@ -1,4 +1,4 @@
-# tmall_springboot
+# Online Shopping Portal
 
 The back-end system includes commodity management, order management, category management, customer management, partner management, customer service management, payment platform, content management, etc. The front page includes personal center, shopping cart, product details page, submit order page, etc.
 
