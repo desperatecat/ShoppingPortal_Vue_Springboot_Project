@@ -6,7 +6,7 @@ Environment and tools: Linux, IntelliJ IDEA/Eclipse, Maven;
 
 Front-end: HTML/CSS/JavaScript/Vue/JSON/AJAX; Middleware: Redis/Nginx/Elasticsearch/Shiro;
 
-Back-end and database: Java/Spring/Spring MVC/Spring Boot/Spring Data JPA/MySQL.
+Back-end and database: Java/Spring/Spring MVC/Spring Boot/Hibernate/MySQL.
 
 ○	Analyzed requirement of back-end system, determined the functionality of submitting data to the server(login, search, category sorting, buy now, generate order, delete order, confirm payment, etc).
 
